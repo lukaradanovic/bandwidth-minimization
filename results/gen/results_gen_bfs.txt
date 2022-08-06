@@ -1,0 +1,8 @@
+name bandwidth time
+graph_9_2 2 0.0157975
+graph_8_1 3 2.75613e-05
+graph_13_1 3 2.2192e-05
+graph_12_1 2 0.0240763
+graph_11_1 3 0.00252803
+graph_10_1 2 0.00437372
+graph_9_1 1 1.54993e-05
